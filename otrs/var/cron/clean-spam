@@ -1,0 +1,3 @@
+# cleaning spam twice a day
+5 9,11,13,15,18,23 * * * $HOME/bin/clean-spam.pl >> /dev/null
+
